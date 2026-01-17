@@ -1,69 +1,59 @@
-210 Roomie Studio
+# 210 Roomie Studio
 
-210 Roomie Studio is a small independent two-person studio focused on building practical, well-scoped digital products for clients and collaborators.
+**210 Roomie Studio** is a small, independent **two-person studio** building **practical, well-scoped digital products** for clients and collaborators.
 
-We work best on projects that need to go from idea → working product without unnecessary complexity.
+We specialize in turning ideas into **working, maintainable software**—without unnecessary complexity.
 
-👥 Team
+---
 
-We are a two-person studio, combining:
+## 👥 Team
 
-Software & web development
+We are a two-person studio combining:
 
-Interactive and educational applications
+* **Software & web development**
+* **Interactive and educational applications**
+* **Product thinking with realistic delivery**
 
-Product thinking with realistic delivery
+Our size allows us to stay **hands-on, flexible, and accountable** on every project.
 
-Being small allows us to stay hands-on, flexible, and accountable.
+---
 
-💼 What We Do
+## 💼 What We Do
 
-🌐 Web development (landing pages, dashboards, internal tools)
+* 🌐 **Web development** — landing pages, dashboards, internal tools
+* 🎮 **Interactive & educational games** — HTML5 / Construct 3
+* ⚙️ **Backend & service integration** — Firebase, APIs
+* 🧪 **Prototypes, MVPs, and small production-ready apps**
 
-🎮 Interactive & educational games (HTML5 / Construct 3)
+We focus on **clear requirements, maintainable solutions, and honest timelines**.
 
-⚙️ Backend & service integration (Firebase, APIs)
+---
 
-🧪 Prototypes, MVPs, and small production-ready apps
+## 🧠 How We Work
 
-We focus on clear requirements, maintainable solutions, and honest timelines.
+* Direct communication (no layers, no handoffs)
+* Clearly defined scope and deliverables
+* Iterative development with visible progress
+* Clean, documented handover
 
-🧠 How We Work
+We prioritize **functionality over buzzwords** and **completion over overengineering**.
 
-Direct communication (no layers, no handoffs)
+---
 
-Clearly defined scope and deliverables
-
-Iterative development with visible progress
-
-Clean, documented handover
-
-We prioritize functionality over buzzwords and completion over overengineering.
-
-📂 Selected Work
-
-Semarang Game
-Educational web game with 4 minigames, 3 difficulty levels each, and a Firebase leaderboard
-🔗 https://katarinakanti.github.io/smg
-
-More work will be added as projects are completed.
-
-🤝 Freelance & Collaboration
+## 🤝 Freelance & Collaboration
 
 We are open to:
 
-Freelance projects
+* Freelance projects
+* Short-term contracts
+* Small team collaborations
 
-Short-term contracts
+📩 **Contact**
+Email: [programmingkanti@gmail.com](mailto:programmingkanti@gmail.com)
+GitHub: [https://github.com/210-roomie-studio](https://github.com/210-roomie-studio)
 
-Small team collaborations
+---
 
-📩 Contact
-
-Email: yourstudio@email.com
-
-GitHub: https://github.com/210-roomie-studio
-
-📍 Location
+## 📍 Location
 
 Indonesia — working remotely.
